@@ -26,4 +26,10 @@ React has dominated the job market in frontend development for the past few year
 - **Competitive Salaries**: React developers tend to command higher salaries due to high demand and the value they bring to companies.
 - **Wide Opportunities**: React is used in a variety of industries, from e-commerce to social media, education, and more, which opens many doors on a professional level.
 
+![image](https://github.com/user-attachments/assets/e73eca87-764d-4f62-bb67-196befcd7492)
+
+![image](https://github.com/user-attachments/assets/283969c7-ff74-499c-8889-891fb20a1c65)
+
+👆👆👆 Reference from NPMTRENDS
+
 
